@@ -1,0 +1,28 @@
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\obj\Debug\net8.0\Oppgaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\obj\Debug\net8.0\Oppgaver.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\obj\Debug\net8.0\Oppgaver.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\obj\Debug\net8.0\Oppgaver.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\bin\Debug\net8.0\Oppgaver.exe
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\bin\Debug\net8.0\Oppgaver.deps.json
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\bin\Debug\net8.0\Oppgaver.runtimeconfig.json
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\bin\Debug\net8.0\Oppgaver.dll
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\bin\Debug\net8.0\Oppgaver.pdb
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\obj\Debug\net8.0\Oppgaver.dll
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\obj\Debug\net8.0\refint\Oppgaver.dll
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\obj\Debug\net8.0\Oppgaver.pdb
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\obj\Debug\net8.0\Oppgaver.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\obj\Debug\net8.0\ref\Oppgaver.dll
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Grunnleggende, Oppg 1\bin\Debug\net8.0\Oppgaver.exe
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Grunnleggende, Oppg 1\bin\Debug\net8.0\Oppgaver.deps.json
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Grunnleggende, Oppg 1\bin\Debug\net8.0\Oppgaver.runtimeconfig.json
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Grunnleggende, Oppg 1\bin\Debug\net8.0\Oppgaver.dll
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Grunnleggende, Oppg 1\bin\Debug\net8.0\Oppgaver.pdb
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Grunnleggende, Oppg 1\obj\Debug\net8.0\Oppgaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Grunnleggende, Oppg 1\obj\Debug\net8.0\Oppgaver.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Grunnleggende, Oppg 1\obj\Debug\net8.0\Oppgaver.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Grunnleggende, Oppg 1\obj\Debug\net8.0\Oppgaver.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Grunnleggende, Oppg 1\obj\Debug\net8.0\Oppgaver.dll
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Grunnleggende, Oppg 1\obj\Debug\net8.0\refint\Oppgaver.dll
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Grunnleggende, Oppg 1\obj\Debug\net8.0\Oppgaver.pdb
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Grunnleggende, Oppg 1\obj\Debug\net8.0\Oppgaver.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Grunnleggende, Oppg 1\obj\Debug\net8.0\ref\Oppgaver.dll
