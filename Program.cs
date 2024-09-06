@@ -2,16 +2,32 @@
 
 namespace Oppgaver;
 
+/*
+namespace Oppgaver
+{
+    
+}
+
+using Oppgaver;
+
+*/
+
 class Program
 {
     static void Main()
     {
         //Variables
         int helTall = 1;
+        Console.WriteLine(helTall);
         string nyString = "Heeeeeey";
+        Console.WriteLine(nyString);
         double nyDouble = 1.5;
+        Console.WriteLine(nyDouble);
         char nyChar = 'A';
+        Console.WriteLine(nyChar);
         int[] tallArray = [1,2,3];
+        Console.WriteLine(tallArray.Count());
+        Console.WriteLine(tallArray.Length);
         string[] strArray = ["No. ", "Yes.", "Maaaaaybe?"];
 
         //Set up new Dictionary

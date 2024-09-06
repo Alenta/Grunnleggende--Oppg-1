@@ -26,3 +26,4 @@ C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Grunnleggende, Oppg 1\o
 C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Grunnleggende, Oppg 1\obj\Debug\net8.0\Oppgaver.pdb
 C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Grunnleggende, Oppg 1\obj\Debug\net8.0\Oppgaver.genruntimeconfig.cache
 C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Grunnleggende, Oppg 1\obj\Debug\net8.0\ref\Oppgaver.dll
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Grunnleggende, Oppg 1\obj\Debug\net8.0\Oppgaver.sourcelink.json
