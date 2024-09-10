@@ -3,15 +3,7 @@ using System.Runtime.InteropServices;
 
 namespace Oppgaver;
 
-/*
-namespace Oppgaver
-{
-    
-}
 
-using Oppgaver;
-
-*/
 
 class Oppg1
 {
