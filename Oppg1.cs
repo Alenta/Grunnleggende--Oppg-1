@@ -1,4 +1,5 @@
-﻿using System.Runtime.InteropServices;
+﻿using System.Reflection.Metadata.Ecma335;
+using System.Runtime.InteropServices;
 
 namespace Oppgaver;
 
@@ -12,7 +13,7 @@ using Oppgaver;
 
 */
 
-class Program
+class Oppg1
 {
     static void Main()
     {
@@ -26,8 +27,6 @@ class Program
         char nyChar = 'A';
         Console.WriteLine(nyChar);
         int[] tallArray = [1,2,3];
-        Console.WriteLine(tallArray.Count());
-        Console.WriteLine(tallArray.Length);
         string[] strArray = ["No. ", "Yes.", "Maaaaaybe?"];
 
         //Set up new Dictionary
@@ -81,25 +80,49 @@ class Program
         }
         
         //Set up new string array and test the StringDoer
-        string[] arg = ["Hey!", "Hello!", "Hi!", ":C"];
+        string[] arg = ["Ole", "Petter", "Carl"];
         StringDoer(arg);
 
         void StringDoer(string[] arg)
         {   //Foreach loop through array
             Console.WriteLine("Testing stringdoer: ");
             foreach (var str in arg)
-            {   //If str matches accepted arguments write a reply
-                if(str == "Hey!"){
-                    Console.WriteLine("NO!");
-                }
-                else if(str == "Hello!"){
-                    Console.WriteLine("GO AWAY!");
-                }
-                else if(str == "Hi!"){
-                    Console.WriteLine("LEAVE ME ALONE!");
-                } //Else do final action
-                else {Console.WriteLine("...Fiiiiiine.");}
+            {   //Append message to name and write to console
+                Console.WriteLine("Hello, " + str + "!");
             }
+        }
+        MyMath.AddNumbers(20,10);
+        int[] array = [1,1,1,1,1,1,1,3];
+        MyMath.AddArray(array);
+
+        Dictionary<string, int> nameDictionary = [];
+        nameDictionary.Add("Lars",25);
+        nameDictionary.Add("Ole",15);
+        nameDictionary.Add("Lasse",62);
+
+        foreach (var item in nameDictionary)
+        {
+            Console.WriteLine("Key: " + item.Key + ", Value: "+ item.Value);
         }
     } 
 }
+
+class MyMath()
+{
+    public static int AddNumbers(int a, int b){
+        Console.WriteLine("Added Numbers outside of scope: " + a + " + " + b + " = " + (a+b));
+        return a+b;
+    }
+    public static int AddArray(int[] array){
+        int sum = 0;
+        foreach (var value in array)
+        {
+            sum += value;
+        }
+        Console.WriteLine("Summed array: "+sum);
+        return sum;
+
+    }
+}
+
+
